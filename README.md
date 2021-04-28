@@ -13,16 +13,20 @@
 
 <div>
   <h1 align="center">What are my skills? 💻</h1>
-  <div style="display:flex;justify-content:space-between;flex-direction:row-reverse;">
-    <img width="500px" src="https://media1.tenor.com/images/147d722dced9c8e41073ee6059171779/tenor.gif?itemid=14680553" alt="Anime Girl GIF" />
-    <ul>
-      <li>Docker</li>
-      <li>GitHub Actions</li>
-      <li>C# (mainly Blazor)</li>
-      <li>Rust</li>
-      <li>Python</li>
-    </ul>
-  </div>
+  <table width="100%">
+    <tr>
+      <th><img width="500px" src="https://media1.tenor.com/images/147d722dced9c8e41073ee6059171779/tenor.gif?itemid=14680553" alt="Anime Girl GIF" /></th>
+      <th>
+        <ul>
+          <li>Docker</li>
+          <li>GitHub Actions</li>
+          <li>C# (mainly Blazor)</li>
+          <li>Rust</li>
+          <li>Python</li>
+        </ul>
+      </th>
+    </tr>
+  </table>
 </div>
 
 <div>
