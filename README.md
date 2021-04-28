@@ -23,7 +23,7 @@ My pronouns are it/its and I am agender! 🏳️‍🌈
 <br /><br /><br /><br />
 
 # What am I learning currently? 🖊️
-<img height="250px" align="left" src="https://i.pinimg.com/originals/de/ed/d7/deedd73851f44c98c077e37504a53f2b.gif" alt="Anime Girl Studying GIF" />
+<img height="250px" align="right" src="https://i.pinimg.com/originals/de/ed/d7/deedd73851f44c98c077e37504a53f2b.gif" alt="Anime Girl Studying GIF" />
 
 - Unity Game Development
 - React
