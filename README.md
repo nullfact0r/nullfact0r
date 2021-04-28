@@ -6,12 +6,13 @@
 <br /><br />
 
 # Who am I? 💖
-<img align="right" src="https://cdn40.picsart.com/174293536000202.gif?to=min&r=640" alt="Anime Girl GIF" />
 I am Natsumi/Tamiko. A developer from Germany with a passion for anything related to ops (Docker, Kubernetes, CI/CD).
 
 My pronouns are it/its and I am agender! 🏳️‍🌈
 
 # What are my skills? 💻
+<img align="right" src="https://cdn40.picsart.com/174293536000202.gif?to=min&r=640" alt="Anime Girl GIF" />
+
 - Docker
 - GitHub Actions
 - Dependabot
