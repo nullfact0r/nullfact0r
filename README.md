@@ -1,6 +1,6 @@
 # Hi! 👋
 <div align="center">
-  <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwP0G4-gP6b2rXqiFUVocLJ8" alt="Wave GIF" />
+  <img width="100vw" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwP0G4-gP6b2rXqiFUVocLJ8" alt="Wave GIF" />
 </div>
 
 # Who am I? 💖
@@ -9,7 +9,7 @@ I am Natsumi/Tamiko. A developer from Germany with a passion for anything relate
 My pronouns are it/its and I am agender! 🏳️‍🌈
 
 # What are my skills? 💻
-<img align="right" src="https://cdn40.picsart.com/174293536000202.gif?to=min&r=640" alt="Anime Girl GIF" />
+<img width="500px" align="right" src="https://cdn40.picsart.com/174293536000202.gif?to=min&r=640" alt="Anime Girl GIF" />
 
 - Docker
 - GitHub Actions
