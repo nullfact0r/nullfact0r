@@ -20,7 +20,7 @@ My pronouns are it/its and I am agender! 🏳️‍🌈
 - Rust
 - Python
 
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br />
 
 # What am I learning currently? 🖊️
 <img width="500px" align="right" src="https://i.pinimg.com/originals/de/ed/d7/deedd73851f44c98c077e37504a53f2b.gif" alt="Anime Girl Studying GIF" />
