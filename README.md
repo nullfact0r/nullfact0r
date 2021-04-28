@@ -9,7 +9,7 @@
   </p>
 
   <h1>What are my skills? 💻</h1>
-  <img width="50%" src="https://cdn40.picsart.com/174293536000202.gif?to=min&r=640" alt="Anime Girl GIF" />
+  <img width="75%" src="https://cdn40.picsart.com/174293536000202.gif?to=min&r=640" alt="Anime Girl GIF" />
   <p>
     Docker <br />
     GitHub Actions <br />
@@ -19,12 +19,12 @@
   </p>
 
   <h1>What am I learning currently? 🖊️</h1>
-  <img width="500px" src="https://i.pinimg.com/originals/de/ed/d7/deedd73851f44c98c077e37504a53f2b.gif" alt="Anime Girl Studying GIF" />
-  <ul>
-    <li>Unity Game Development</li>
-    <li>React</li>
-    <li>TypeScript</li>
-  </ul>
+  <img width="75%" src="https://i.pinimg.com/originals/de/ed/d7/deedd73851f44c98c077e37504a53f2b.gif" alt="Anime Girl Studying GIF" />
+  <p>
+    Unity Game Development <br />
+    React <br />
+    Typescript <br />
+  </p>
 
   <h1>Additional things!</h1>
   <strong>I hope you enjoyed looking at my README and wish you an amazing day!</strong>
