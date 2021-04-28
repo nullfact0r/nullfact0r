@@ -12,7 +12,7 @@
 
 
 <h1 align="center">What are my skills? 💻</h1>
-<img width="50%" src="https://cdn40.picsart.com/174293536000202.gif?to=min&r=640" alt="Anime Girl GIF" />
+<img width="50%" src="https://media1.tenor.com/images/147d722dced9c8e41073ee6059171779/tenor.gif?itemid=14680553" alt="Anime Coding GIF" />
 <ul>
   <li>Docker</li>
   <li>GitHub Actions</li>
