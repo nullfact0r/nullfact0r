@@ -1,27 +1,27 @@
-# Hi! 👋
 <div align="center">
+  <h1>Hi! 👋</h1>
   <img width="100%" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwP0G4-gP6b2rXqiFUVocLJ8" alt="Wave GIF" />
 </div>
 
 <div>
-  <h1>Who am I?💖</h1>
+  <h1 align="center">Who am I?💖</h1>
   <p>
     I am Natsumi/Tamiko. A developer from Germany with a passion for anything related to ops (Docker, Kubernetes, CI/CD). <br /><br />
     My pronouns are it/its and I am agender! 🏳️‍🌈
   </p>
 </div>
 
-# What are my skills? 💻
-<img width="500px" align="right" src="https://cdn40.picsart.com/174293536000202.gif?to=min&r=640" alt="Anime Girl GIF" />
-
-- Docker
-- GitHub Actions
-- Dependabot
-- C# (mainly Blazor)
-- Rust
-- Python
-
-<br /><br /><br /><br /><br />
+<div>
+  <h1 align="center">What are my skills? 💻</h1>
+  <img width="500px" align="right" src="https://cdn40.picsart.com/174293536000202.gif?to=min&r=640" alt="Anime Girl GIF" />
+  <ul>
+    <li>Docker</li>
+    <li>GitHub Actions</li>
+    <li>C# (mainly Blazor)</li>
+    <li>Rust</li>
+    <li>Python</li>
+  </ul>
+</div>
 
 # What am I learning currently? 🖊️
 <img width="500px" align="right" src="https://i.pinimg.com/originals/de/ed/d7/deedd73851f44c98c077e37504a53f2b.gif" alt="Anime Girl Studying GIF" />
