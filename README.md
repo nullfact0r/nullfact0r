@@ -11,10 +11,10 @@
   </p>
 </div>
 
-<div>
+<div align="center" width="100%">
   <h1 align="center">What are my skills? 💻</h1>
-  <img width="50%" align="center" src="https://cdn40.picsart.com/174293536000202.gif?to=min&r=640" alt="Anime Girl GIF" />
-  <ul>
+  <img width="50%" src="https://cdn40.picsart.com/174293536000202.gif?to=min&r=640" alt="Anime Girl GIF" />
+  <ul align="left">
     <li>Docker</li>
     <li>GitHub Actions</li>
     <li>C# (mainly Blazor)</li>
