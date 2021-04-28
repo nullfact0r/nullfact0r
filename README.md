@@ -3,35 +3,31 @@
   <img width="100%" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwP0G4-gP6b2rXqiFUVocLJ8" alt="Wave GIF" />
 </div>
 
-<div>
-  <h1 align="center">Who am I?💖</h1>
-  <p>
-    I am Natsumi/Tamiko. A developer from Germany with a passion for anything related to ops (Docker, Kubernetes, CI/CD). <br /><br />
-    My pronouns are it/its and I am agender! 🏳️‍🌈
-  </p>
-</div>
 
-<div align="center" width="100%">
-  <h1 align="center">What are my skills? 💻</h1>
-  <img width="50%" src="https://cdn40.picsart.com/174293536000202.gif?to=min&r=640" alt="Anime Girl GIF" />
-  <ul align="left">
-    <li>Docker</li>
-    <li>GitHub Actions</li>
-    <li>C# (mainly Blazor)</li>
-    <li>Rust</li>
-    <li>Python</li>
-  </ul>
-</div>
+<h1 align="center">Who am I?💖</h1>
+<p>
+  I am Natsumi/Tamiko. A developer from Germany with a passion for anything related to ops (Docker, Kubernetes, CI/CD). <br /><br />
+  My pronouns are it/its and I am agender! 🏳️‍🌈
+</p>
 
-<div>
-  <h1 align="center">What am I learning currently? 🖊️</h1>
-  <img width="50%" align="center" src="https://i.pinimg.com/originals/de/ed/d7/deedd73851f44c98c077e37504a53f2b.gif" alt="Anime Girl Studying GIF" />
-  <ul>
-    <li>Unity Game Development</li>
-    <li>React</li>
-    <li>TypeScript</li>
-  </ul>
-<div>
+
+<h1 align="center">What are my skills? 💻</h1>
+<img width="50%" src="https://cdn40.picsart.com/174293536000202.gif?to=min&r=640" alt="Anime Girl GIF" />
+<ul>
+  <li>Docker</li>
+  <li>GitHub Actions</li>
+  <li>C# (mainly Blazor)</li>
+  <li>Rust</li>
+  <li>Python</li>
+</ul>
+
+<h1 align="center">What am I learning currently? 🖊️</h1>
+<img width="50%" align="center" src="https://i.pinimg.com/originals/de/ed/d7/deedd73851f44c98c077e37504a53f2b.gif" alt="Anime Girl Studying GIF" />
+<ul>
+  <li>Unity Game Development</li>
+  <li>React</li>
+  <li>TypeScript</li>
+</ul>
 
 <div align="center">
   <h1>Additional things!</h1>
