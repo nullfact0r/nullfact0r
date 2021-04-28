@@ -27,7 +27,7 @@ My pronouns are it/its and I am agender! 🏳️‍🌈
 - TypeScript
 - Elixir
 
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br />
 
 # Additional things!
 **I hope you enjoyed looking at my README and wish you an amazing day!**
