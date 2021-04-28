@@ -4,8 +4,7 @@
 </div>
 
 <div>
-  <h1>Who am I?</h1>
-  <hr style="width:100%">
+  <h1>Who am I?💖</h1>
   <p>
     I am Natsumi/Tamiko. A developer from Germany with a passion for anything related to ops (Docker, Kubernetes, CI/CD). <br /><br />
     My pronouns are it/its and I am agender! 🏳️‍🌈
