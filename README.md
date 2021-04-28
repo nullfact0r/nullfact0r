@@ -31,6 +31,6 @@
 
 <div align="center">
   <h1>Additional things!</h1>
-  <strong>I hope you enjoyed looking at my README and wish you an amazing day!</strong> <br />
+  <strong>I hope you enjoyed looking at my README and wish you an amazing day!</strong> <br /><br />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nullfact0r&show_icons=true&theme=slateorange&include_all_commits=true&title_color=faa627&icon_color=faa627&text_color=ffffff&bg_color=36393f00">
 </div>
