@@ -11,7 +11,7 @@
   </p>
 </div>
 
-<div>
+<div style="margin-bottom:100px">
   <h1 align="center">What are my skills? 💻</h1>
   <img width="500px" align="right" src="https://cdn40.picsart.com/174293536000202.gif?to=min&r=640" alt="Anime Girl GIF" />
   <ul>
