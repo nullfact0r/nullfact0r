@@ -13,7 +13,7 @@
 
 <div>
   <h1 align="center">What are my skills? 💻</h1>
-  <img width="500px" align="right" src="https://cdn40.picsart.com/174293536000202.gif?to=min&r=640" alt="Anime Girl GIF" />
+  <img width="500px" align="right" src="https://media1.tenor.com/images/147d722dced9c8e41073ee6059171779/tenor.gif?itemid=14680553" alt="Anime Girl GIF" />
   <ul>
     <li>Docker</li>
     <li>GitHub Actions</li>
@@ -23,7 +23,7 @@
   </ul>
 </div>
 
-<div>
+<div width="100%">
   <h1 align="center">What am I learning currently? 🖊️</h1>
   <img width="500px" align="right" src="https://i.pinimg.com/originals/de/ed/d7/deedd73851f44c98c077e37504a53f2b.gif" alt="Anime Girl Studying GIF" />
   <ul>
