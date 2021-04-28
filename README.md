@@ -1,6 +1,6 @@
 # Hi! 👋
 <div align="center">
-  <img src="https://i.imgur.com/UcGioIH.gif" alt="Wave GIF" />
+  <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwP0G4-gP6b2rXqiFUVocLJ8" alt="Wave GIF" />
 </div>
 
 <br /><br />
