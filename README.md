@@ -1,6 +1,6 @@
 # Hi! 👋
 <div align="center">
-  <img width="100vw" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwP0G4-gP6b2rXqiFUVocLJ8" alt="Wave GIF" />
+  <img width="100%" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwP0G4-gP6b2rXqiFUVocLJ8" alt="Wave GIF" />
 </div>
 
 # Who am I? 💖
