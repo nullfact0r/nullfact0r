@@ -13,7 +13,7 @@
 
 <div>
   <h1 align="center">What are my skills? 💻</h1>
-  <table width="100%">
+  <table width="100%" style="text-align:left">
     <tr>
       <th><img width="500px" src="https://media1.tenor.com/images/147d722dced9c8e41073ee6059171779/tenor.gif?itemid=14680553" alt="Anime Girl GIF" /></th>
       <th>
