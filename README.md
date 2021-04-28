@@ -8,9 +8,9 @@
     My pronouns are it/its and I am agender! 🏳️‍🌈
   </p>
 
-  <h1 align="center">What are my skills? 💻</h1>
-  <img width="500px" align="center" src="https://cdn40.picsart.com/174293536000202.gif?to=min&r=640" alt="Anime Girl GIF" />
-  <p align="center">
+  <h1>What are my skills? 💻</h1>
+  <img width="50%" src="https://cdn40.picsart.com/174293536000202.gif?to=min&r=640" alt="Anime Girl GIF" />
+  <p>
     Docker <br />
     GitHub Actions <br />
     C# (mainly Blazor) <br />
@@ -18,7 +18,7 @@
     Python <br />
   </p>
 
-  <h1 align="center">What am I learning currently? 🖊️</h1>
+  <h1>What am I learning currently? 🖊️</h1>
   <img width="500px" src="https://i.pinimg.com/originals/de/ed/d7/deedd73851f44c98c077e37504a53f2b.gif" alt="Anime Girl Studying GIF" />
   <ul>
     <li>Unity Game Development</li>
