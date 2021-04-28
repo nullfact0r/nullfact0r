@@ -23,14 +23,14 @@ My pronouns are it/its and I am agender! 🏳️‍🌈
 <br /><br /><br /><br />
 
 # What am I learning currently? 🖊️
-<img height="250px" align="right" src="https://i.pinimg.com/originals/de/ed/d7/deedd73851f44c98c077e37504a53f2b.gif" alt="Anime Girl Studying GIF" />
+<img width="500px" align="right" src="https://i.pinimg.com/originals/de/ed/d7/deedd73851f44c98c077e37504a53f2b.gif" alt="Anime Girl Studying GIF" />
 
 - Unity Game Development
 - React
 - TypeScript
 - Elixir
 
-<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 # Additional things!
 **I hope you enjoyed looking at my README and wish you an amazing day!**
