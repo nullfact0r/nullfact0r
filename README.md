@@ -16,13 +16,12 @@
   <li>Docker</li>
   <li>GitHub Actions</li>
   <li>C# (mainly Blazor)</li>
-  <li>Rust</li>
   <li>Python</li>
 </ul>
 
 <h1 align="center">What am I learning currently? 🖊️</h1>
 <ul>
-  <li>Unity Game Development</li>
+  <li>Ruby</li>
   <li>React</li>
   <li>TypeScript</li>
 </ul>
