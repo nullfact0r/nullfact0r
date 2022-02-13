@@ -6,8 +6,8 @@
 
 <h1 align="center">Who am I?💖</h1>
 <p>
-  I am Natsumi/Tamiko. A developer from Germany with a passion for anything related to ops (Docker, Kubernetes, CI/CD). <br /><br />
-  My pronouns are it/its and I am agender! 🏳️‍🌈
+  I am a developer from Germany with a passion for anything related to ops (Docker, Kubernetes, CI/CD). <br /><br />
+  My pronouns are it/its and I am genderfluid! 🏳️‍🌈
 </p>
 
 
@@ -15,15 +15,15 @@
 <ul>
   <li>Docker</li>
   <li>GitHub Actions</li>
-  <li>C# (mainly Blazor)</li>
+  <li>TypeScript</li>
+  <li>Frontend WebDev (Vue and Svelte)</li>
   <li>Python</li>
 </ul>
 
 <h1 align="center">What am I learning currently? 🖊️</h1>
 <ul>
-  <li>Ruby</li>
-  <li>React</li>
-  <li>TypeScript</li>
+  <li>Deno</li>
+  <li>Kubernetes</li>
 </ul>
 
 <div align="center">
