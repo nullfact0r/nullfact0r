@@ -18,10 +18,11 @@
   <li>TypeScript</li>
   <li>Frontend WebDev (Vue and Svelte)</li>
   <li>Python</li>
+  <li>Deno</li>
 </ul>
 
 <h1 align="center">What am I learning currently? 🖊️</h1>
 <ul>
-  <li>Deno</li>
   <li>Kubernetes</li>
+  <li>Rust</li>
 </ul>
